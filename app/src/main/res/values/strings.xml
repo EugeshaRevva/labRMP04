@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">lab4</string>
-    <string name="hint">Текст</string>
-    <string name="button">Нажми</string>
+    <string name="app_name">Интенты</string>
+    <string name="hint">...</string>
+    <string name="button">Кнопка</string>
     <string name="ok">OK</string>
-    <string name="time">Здесь будет время</string>
+    <string name="time">ВРЕМЯ</string>
 </resources>
